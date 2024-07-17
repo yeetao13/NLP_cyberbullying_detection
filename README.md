@@ -24,8 +24,4 @@ The dataset used for this project is the Cyberbullying Tweets dataset available 
 - **Libraries and Frameworks**: NLTK, SpaCy, Scikit-Learn
 - **Tools**: Jupyter Notebook, Pandas, NumPy, Matplotlib, Seaborn
 
-## How to Use
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/yourusername/NLP-Cyberbullying-Detection.git
+**__A Project by Quah Seng Kit, Sattish Pratap Shewkani, Yeo Yee Tao__**
